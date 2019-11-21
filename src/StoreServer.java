@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class StoreServer {
-    static String dbfile = "store.db";
+    static String dbfile = "./data/store.db";
 
     public static void main(String[] args) {
 
